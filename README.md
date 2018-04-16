@@ -1,16 +1,24 @@
+
 # Energy Usage Analysis
 
-In the coming couple of months, I will be moving to a new home and as
-such, will be switching a number of resource providers. Everyone loves
-to save money, so I decided to see where I could cut costs.
+![co-serv-dash][dashboard]
+*an energy usage dashboard provided by my service provider.*
 
-My new home has access to three different providers: [__TXU__][1],
-[__Reliant__][2], and [__GreenMountain__][3]\*. Of these three, TXU
-seems to offer the most attractive pricing and flexible plans.. however
-they also offer distinct benefits for each of their plans! The analysis
-I undergo in this notebook will help me determine which plan is best to
-choose, based on my own energy needs.
+At the time of writing this repo, I had an electric provider called [CoServ
+Electric][co-serv], a not-for-profit rural electric utility cooperative that services much
+of North Texas. When moving in to the home that I was in, CoServ was my only
+option. Now that I've decided to move, I went through all the new options that
+are provided to me and I immediately thought back to the dashboard above.
 
-[1]: https://www.txu.com/residential/plans-offers.aspx
-[2]: https://www.reliant.com/en/public/apartment-electricity.jsp
-[3]: https://www.greenmountainenergy.com/
+In Texas, many providers offer promotional deals like Free Nights or Half-Price
+timeframes in order to incentivize you as a consumer to choose them over their
+competitors. With so many options and deals, there's usually money left on the
+table (or in the meter!). I spent a couple of hours putting together an
+analysis of my own energy usage over the course of my time at my current home
+in hopes that it would save me some cash down the road.
+
+I do my best to explain new concepts and functions, but I will assume that
+you have a basic understanding of data structures, visualization, and analysis.
+
+[dashboard]: dashboard.png
+[co-serv]: https://www.coserv.com/
